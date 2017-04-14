@@ -6,15 +6,14 @@
   - 给普通字符类型赋值
 
   		public class User{
-   			private String username;
-
-   			publicString getUsername() {
-       			return username;
-   			}
-   			public void setUsername(String username) {
-      			this.username= username;
-   			}
-		}
+   		 private String username;
+   	     public String getUsername() {
+   			return username;
+            }
+            public void setUsername(String username) {
+   			this.username= username;
+            }
+          }
 
 	applicationContext.xml
     	<bean id="userAction"class="com.lsz.spring.action.User" >
