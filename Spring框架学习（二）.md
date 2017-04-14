@@ -33,7 +33,7 @@
 			public void setUserservice(UserService userservice){
 				this.userservice= userservice;
 			}
-    		}
+		}
 		
 	配置文件增加对象的声明
 	
@@ -55,7 +55,7 @@
 			public void setUsername(List<String> username) {
 				this.username= username;
 			}
-    		}
+		}
 
 	配置文件
 		
