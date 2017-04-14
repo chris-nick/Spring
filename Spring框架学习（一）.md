@@ -1,6 +1,6 @@
 ### Spring框架学习（一）
 ##### 1.what Spring framework?
-  	  Spring是J2EE应用框架，轻量级AOP和IOC容器框架，主要针对JavaBean的生命周期进行管理，可单独使用，也可和Struts，ibatis等组合使用。
+    Spring是J2EE应用框架，轻量级AOP和IOC容器框架，主要针对JavaBean的生命周期进行管理，可单独使用，也可和Struts，ibatis等组合使用。
 ##### 2.概述
   - IOC控制反转
 
